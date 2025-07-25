@@ -1,6 +1,6 @@
 # Basic Password Generator
 # This code generates a random password based on user input!
-# By Lilly Nicholls 25/07/2025
+# By Lilly 25/07/2025
 
 # Importing the random module to generate random choices
 import random
